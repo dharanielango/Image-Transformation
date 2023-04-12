@@ -120,29 +120,32 @@ plt.show()
 
 ```
 ## Output:
-### i)Image Translation
+### i)Original Image
 ![o](1.png)
-
-### ii) Image Scaling
+### ii)Image Translation
 ![o](2.png)
 
-
-### iii)Image shearing
+### iii) Image Scaling
 ![o](3.png)
 
 
-### iv)Image Reflection
+### iv)Image shearing
 ![o](4.png)
 
-
-
-### v)Image Rotation
 ![o](5.png)
+### v)Image Reflection
 
-
-
-### vi)Image Cropping
 ![o](6.png)
+
+![o](7.png)
+### vi)Image Rotation
+
+
+
+![o](8.png)
+
+### vii)Image Cropping
+![o](9.png)
 
 
 
